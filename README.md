@@ -8,6 +8,21 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 `script_solution1.py`: script com a solução do problema. 
 
 ## Salvando modificações no Git
+* comando git push
 
+## Comando Git
 
+<!-- * git add -->
+<!-- * git diff -staged -->
+<!-- * git add .\README.md */após o ponto coloca o nome do arquivo md*/ -->
+
+<!-- git commit -m "add new title" // comando para realizar o commit -->
+
+<!-- git log // para visualizar o log das alterações -->
+
+<!-- // ao apertar a letra Q saiu do log -->
+
+## Comando restore
+
+<!-- git restore .\README.md //usa o git restore mais o nome do arquivo -->
 
